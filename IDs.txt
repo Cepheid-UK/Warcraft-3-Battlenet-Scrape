@@ -1,0 +1,17 @@
+LORDAERON:
+http://classic.battle.net/war3/ladder/w3xp-game-detail.aspx?Gateway=Lordaeron&GameID=
+First ID of lordaeron: 15491298
+Last ID of lordaeron: 15522109
+
+AZEROTH:
+http://classic.battle.net/war3/ladder/w3xp-game-detail.aspx?Gateway=Azeroth&GameID=
+First ID of azeroth: 23235109
+Last ID of azeroth: 23249312
+
+NORTHREND:
+http://classic.battle.net/war3/ladder/w3xp-game-detail.aspx?Gateway=Northrend&GameID=
+First ID of northrend: 79825180
+Last ID of northrend: 79902172
+
+TOTAL BNET GAMES: 122006
+SCRAPED FIRST RUN: 26117 (L) + 14203 (A) + 43063 (N)
