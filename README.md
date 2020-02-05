@@ -9,6 +9,8 @@ These scripts scrape all the data from 1v1 games on the classic.battle.net websi
 * These scripts were selected only for the games listed in IDs.txt, which are games that all occured in a window in early 2019 when Blizzard began updating the full game listings again.
 * This was produced to collect data on the impact of 1.30.4.
 * Tournament games have a high number of low quality games, lossbots, poor matchmaking or AFK players.
+* This data was collected for use in this article: https://warcraft3.info/articles/278
+* The raw collected data is available here: https://drive.google.com/drive/folders/1aFs5fSUqUCe2dvY28ocWbRbOvkr3jHhA
 
 # Known Issues #
 * The "matchup" column was an experiment that I never got around to fixing, It works fine for players who selected their race, but players who choose random will show up as "undefined". Considering it simply organises data that is already being scraped, It's not a priority for me to fix.
